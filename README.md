@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mani Pratap
 - 👀 I’m interested in full Stack Developement
 - 🌱 I’m currently learning GraphQL
-- 💞️ I’m looking to collaborate on web and monile app developement
+- 💞️ I’m looking to collaborate on Web and Mobile app developement
 - 📫 How to reach me : Please drop me an email at mannipratap@gmail.com
 
 <!---
